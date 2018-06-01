@@ -3,17 +3,22 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=216&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528821552.185634"
+         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=216&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528908940.465229"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=572&amp;EndingColumnNumber=9&amp;EndingLineNumber=15&amp;StartingColumnNumber=5&amp;StartingLineNumber=15&amp;Timestamp=528821552.185762"
+         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=70&amp;CharacterRangeLoc=567&amp;EndingColumnNumber=70&amp;EndingLineNumber=15&amp;StartingColumnNumber=0&amp;StartingLineNumber=15&amp;Timestamp=528908940.465583"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=482&amp;EndingColumnNumber=13&amp;EndingLineNumber=13&amp;StartingColumnNumber=1&amp;StartingLineNumber=13&amp;Timestamp=528821552.185851"
+         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=482&amp;EndingColumnNumber=13&amp;EndingLineNumber=13&amp;StartingColumnNumber=1&amp;StartingLineNumber=13&amp;Timestamp=528908940.465707"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/ewil1026/Documents/Playgrounds2017/UIKit.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=572&amp;EndingColumnNumber=9&amp;EndingLineNumber=15&amp;StartingColumnNumber=5&amp;StartingLineNumber=15&amp;Timestamp=528908940.465805"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
